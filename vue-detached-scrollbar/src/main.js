@@ -3,9 +3,8 @@
 import Vue from 'vue';
 import Appl from 'App';
 import Foots from 'Footer';
-import Wrapper from 'vue-detached-scrollbar';
-import {scrollBus} from 'vue-detached-scrollbar';
-
+// import {Wrapper} from 'vue-detached-scrollbar';
+import scrollBus from 'vue-detached-scrollbar';
 
 /* eslint-disable no-new */
 const app = new Vue({
@@ -15,7 +14,7 @@ const app = new Vue({
   el: '#app',
   template: '<div><appl/><span>Some random HTML code here</span><foots/></div>',
   components: {
-    Wrapper,
+    // Wrapper,
     Appl,
     Foots,
   },

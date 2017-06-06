@@ -1,47 +1,5 @@
 webpackJsonp([1,2],{
 
-/***/ 0:
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_vue__ = __webpack_require__(2);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_vue___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_vue__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_ScrollBar__ = __webpack_require__(10);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__components_ScrollBar___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__components_ScrollBar__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__components_Gallery__ = __webpack_require__(9);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__components_Gallery___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2__components_Gallery__);
-/* harmony reexport (default from non-hamory) */ __webpack_require__.d(__webpack_exports__, "c", function() { return __WEBPACK_IMPORTED_MODULE_1__components_ScrollBar___default.a; });
-/* harmony reexport (default from non-hamory) */ __webpack_require__.d(__webpack_exports__, "d", function() { return __WEBPACK_IMPORTED_MODULE_2__components_Gallery___default.a; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return scrollBus; });
-
-
-
-
-
-Object.defineProperty(__WEBPACK_IMPORTED_MODULE_0_vue___default.a.prototype, '$scrollBus', {
-    get() {
-        return this.$root.scrollBus;
-    }
-});
-
-const scrollBus = new __WEBPACK_IMPORTED_MODULE_0_vue___default.a({})
-
-const app = new __WEBPACK_IMPORTED_MODULE_0_vue___default.a({
-  data: {
-    scrollBus,
-  },
-  components: {
-    ScrollBar: __WEBPACK_IMPORTED_MODULE_1__components_ScrollBar___default.a,
-    Gallery: __WEBPACK_IMPORTED_MODULE_2__components_Gallery___default.a,
-  },
-});
-
-/* harmony default export */ __webpack_exports__["b"] = app;
-
-
-
-/***/ }),
-
 /***/ 1:
 /***/ (function(module, exports) {
 
@@ -96,35 +54,7 @@ module.exports = function normalizeComponent (
 
 /***/ }),
 
-/***/ 15:
-/***/ (function(module, exports) {
-
-var g;
-
-// This works in non-strict mode
-g = (function() {
-	return this;
-})();
-
-try {
-	// This works if eval is allowed (see CSP)
-	g = g || Function("return this")() || (1,eval)("this");
-} catch(e) {
-	// This works if the window reference is available
-	if(typeof window === "object")
-		g = window;
-}
-
-// g can still be undefined, but nothing to do about it...
-// We return undefined, instead of nothing here, so it's
-// easier to handle this case. if(!global) { ...}
-
-module.exports = g;
-
-
-/***/ }),
-
-/***/ 2:
+/***/ 4:
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -8686,7 +8616,35 @@ Vue$3.compile = compileToFunctions;
 
 module.exports = Vue$3;
 
-/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(15)))
+/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(9)))
+
+/***/ }),
+
+/***/ 9:
+/***/ (function(module, exports) {
+
+var g;
+
+// This works in non-strict mode
+g = (function() {
+	return this;
+})();
+
+try {
+	// This works if eval is allowed (see CSP)
+	g = g || Function("return this")() || (1,eval)("this");
+} catch(e) {
+	// This works if the window reference is available
+	if(typeof window === "object")
+		g = window;
+}
+
+// g can still be undefined, but nothing to do about it...
+// We return undefined, instead of nothing here, so it's
+// easier to handle this case. if(!global) { ...}
+
+module.exports = g;
+
 
 /***/ })
 
