@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ozan Gulle - Blog</title>
+    <link>https://ozangulle.github.io/</link>
+    <description>Recent content on Ozan Gulle - Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 18 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ozangulle.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://ozangulle.github.io/post/first_post/</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ozangulle.github.io/post/first_post/</guid>
+      <description>I was thinking about moving to Github pages for while. Cancelled my previous hosting a month ago; started using Hugo for static site generation. Here&amp;rsquo;s the first post in all its glamour.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ozangulle.github.io/home/</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ozangulle.github.io/home/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://ozangulle.github.io/about/</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ozangulle.github.io/about/</guid>
+      <description> Background  Linguistics Master and PhD Worked at multiple universities Got into the world of tech and finance  Work  Currently working for EQS  </description>
+    </item>
+    
+    <item>
+      <title>My Projects</title>
+      <link>https://ozangulle.github.io/projects/</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ozangulle.github.io/projects/</guid>
+      <description>A List of My Projects I recently started doing open-source projects. Currently, I only have one:
+vue-dispatched-scrollbar (demo)</description>
+    </item>
+    
+  </channel>
+</rss>

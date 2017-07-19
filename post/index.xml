@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ozan Gulle - Blog</title>
+    <link>https://ozangulle.github.io/post/</link>
+    <description>Recent content in Posts on Ozan Gulle - Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 18 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ozangulle.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://ozangulle.github.io/post/first_post/</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ozangulle.github.io/post/first_post/</guid>
+      <description>I was thinking about moving to Github pages for while. Cancelled my previous hosting a month ago; started using Hugo for static site generation. Here&amp;rsquo;s the first post in all its glamour.</description>
+    </item>
+    
+  </channel>
+</rss>
