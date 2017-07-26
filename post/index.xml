@@ -5,10 +5,24 @@
     <link>https://ozangulle.github.io/post/</link>
     <description>Recent content in Posts on Ozan Gulle</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 18 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ozangulle.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
-	<atom:link href="https://ozangulle.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>New Shiny Product is Live</title>
+      <link>https://ozangulle.github.io/post/new_product_is_live/</link>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ozangulle.github.io/post/new_product_is_live/</guid>
+      <description>&lt;p&gt;The main project I was working on for the better part of the last year is now live. The release of a new (or in this case, reworked) product is an exciting event. It is almost like releasing your pet into the wild.&lt;/p&gt;
+
+&lt;p&gt;It is also interesting to observe the several stages of development &amp;ndash; or even better, the developer&amp;rsquo;s mind &amp;ndash; in retrospective. The whole ordeal is an emotional rollercoaster starting with a clean slate and a mindset of &amp;ldquo;this time we are going to make everything right from the get-go&amp;rdquo;, moving on to a long period where you conciously note every corner you cut for the sake of delivering on time, and then finally arriving to the state of panic where you know that the project is doomed and it will never be done. Most of the development teams are resilient enough to overcome this last hurdle and ship the product in time.&lt;/p&gt;
+
+&lt;p&gt;In the end, these feelings towards a project are definitely not exclusive for IT projects. We humans in general tend to suffer from the &amp;ldquo;this time syndrome&amp;rdquo;. While at the university, how often did you say &amp;ldquo;this time it&amp;rsquo;s all going to be different&amp;rdquo; before starting a semester, or a school year for that matter. The attitude we see during development is the same. You say: &amp;ldquo;This time, I&amp;rsquo;m going to make everything by the book. I will abide by every best practice, I will write tests and do periodical code-reviews&amp;hellip;&amp;rdquo;. Then we are faced with the reality, and maybe we also lack the drive to do everything right after a certain point. Countless meetings, discussions, and frustrating hours with your own code often leaves you tired mentally. And when we are tired, we tend to let go of our ideals and let the frustration get the best of us, which leaves us regret many things we did at the end.&lt;/p&gt;
+
+&lt;p&gt;Maybe the solution is to manage our expectations. No project in the real world happens under ideal lab conditions. If we could know what to expect from the very beginning and still manage to maintain the motivation to the right things, then we might be able to have pulled most of them off by the end of the project. As Seneca said, &amp;ldquo;we suffer more in imagination than in reality&amp;rdquo;. By accepting that everything in this world will be flawed in one way or the other, we can concentrate on improving them instead of complaining that they are not perfect.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>First Post</title>
@@ -16,7 +30,8 @@
       <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ozangulle.github.io/post/first_post/</guid>
-      <description>I was thinking about moving to Github pages for while. Cancelled my previous hosting a month ago; started using Hugo for static site generation. Here&amp;rsquo;s the first post in all its glamour.</description>
+      <description>&lt;p&gt;I was thinking about moving to Github pages for while. Cancelled my previous hosting a month ago; started using Hugo for static site generation. Here&amp;rsquo;s the first post in all its glamour.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
