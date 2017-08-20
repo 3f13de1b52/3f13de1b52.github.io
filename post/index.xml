@@ -5,8 +5,43 @@
     <link>https://ozangulle.github.io/post/</link>
     <description>Recent content in Posts on Ozan Gulle</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 05 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Aug 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ozangulle.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Race for Complexity</title>
+      <link>https://ozangulle.github.io/post/race-for-complexity/</link>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ozangulle.github.io/post/race-for-complexity/</guid>
+      <description>&lt;p&gt;Wikipedia defines &lt;a href=&#34;https://en.wikipedia.org/wiki/Race_condition&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;race condition&lt;/a&gt; as:&lt;/p&gt;
+
+&lt;blockquote&gt;
+A race condition or race hazard is the behavior of an electronic, software, or other system where the output is dependent on the sequence or timing of other uncontrollable events. It becomes a bug when events do not happen in the order the programmer intended. The term originates with the idea of two signals racing each other to influence the output first. 
+&lt;/blockquote&gt;
+
+&lt;p&gt;While it is used in different contexts &amp;ndash; as stated in the definition &amp;ndash; the main idea remains the same: The output is dependent on multiple processes and the order of these processes cannot be predetermined.&lt;/p&gt;
+
+&lt;p&gt;There is, however, another race condition in software development adding up to the overall complexity that doesn’t happen on the machine side, but on the human side of things. It is often said that programming is about managing complexity. This is very true and programmers go great lengths, even institutionalize certain rituals, in order to manage complexity. The code, however, is not complex out of necessity. The code &lt;em&gt;gets&lt;/em&gt; complex, because we humans make it complex; or rather, we cause the conditions which cause the code to become complex. Therefore, in order to get to the root of the problem, we need not only manage the complexity in the code but also in the projects themselves.&lt;/p&gt;
+
+&lt;p&gt;The reason I cited the definition of race condition in the beginning is because in time, I came to think that human interactions can have race conditions as well. When a single person plans and writes a piece of code, it rarely gets so complex that it gets out of hand. On the one hand, this has to do with the fact that a single person has more limited resources, i.e. time, when it comes to it; but even in long single-man projects, things seldom get as messed up as in projects with several developers.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, we get several people trying to change the business logic and the requirements at the same time. It&amp;rsquo;s a race condition on a project level. There is another word for this in real life though: miscommunication. The main difference between electric signals and human beings is that we expect the human beings to communicate with each other and organize (or re-organize) the processes (and themselves) accordingly. But at some point, you find yourself trying to implement a feature which has conflicting requirements from different parties; or you discover that you are working on something which directly conflicts with another thing that someone else is implementing; or you find out that several people are working on the same thing independently because there is no coordination. Sometimes, you don&amp;rsquo;t even know what you&amp;rsquo;re supposed to do because not only are you receiving conflicting requirements but the requirements themselves are also underspecified.&lt;/p&gt;
+
+&lt;p&gt;This behaviour does not exclusively concern the business side of things. We also have programmers making simultaneous changes on the code base: writing new code, rewriting the old code, moving things in order to better organize them etc. But when it comes to code, we have ways of dealing with these problems. We have our SOLID and DRY principles that we all love and use (at least in theory). But how do you deal with people? You cannot handle them on a single-thread just like you would with a race condition to solve your problems. Even though coding is often accepted as an art form, there is obviously a very technical and objective side to it. When you’re dealing with people, you’re dealing with feelings and ambitions, and these things are much more difficult to handle than the code itself.&lt;/p&gt;
+
+&lt;p&gt;In my opinion and experience, two concepts from programming can be used to solve these problems: Separation of concerns, and single source of truth. The former can be used to group people into different categories in an MVC-like pattern. In every project you have:
+&lt;ol&gt;
+    &lt;li&gt;People responsible for deciding what the software should do&lt;/li&gt;
+    &lt;li&gt;People responsible for communicating what the software should do&lt;/li&gt;
+    &lt;li&gt;People who actually make the software&lt;/li&gt;
+&lt;/ol&gt;&lt;/p&gt;
+
+&lt;p&gt;The latter concept can be applied by having the second group create a single source of truth. This database of requirements can only by changed by the second group and by noone else. Thus, you eliminate the risk of the first group leaking into the set of instructions for the third group.&lt;/p&gt;
+
+&lt;p&gt;I cannot be the only one who first came up with the idea and it might very well be that this is actually in all of the textbooks about project management. However, I have yet to see an actualy project where roles are so clear cut. People are not programs, so they are usually not only good for a single task but for various different tasks. It is a valid concern to be afraid of not being able to use the whole spectrum of a person&amp;rsquo;s skillset for the company. It is, after all, paying for these skills. Also as previous mentioned, people come with feelings, and you have office politics coupled with complex human interactions to account for. Handling these complexities is, in the end, what separates successful teams from the rest.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>On the Art of Staying Calm</title>
