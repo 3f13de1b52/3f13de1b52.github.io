@@ -5,8 +5,54 @@
     <link>https://ozangulle.github.io/post/</link>
     <description>Recent content in Posts on Ozan Gulle</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 20 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Sep 2017 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://ozangulle.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Tomato Technique</title>
+      <link>https://ozangulle.github.io/post/the-tomato-technique/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ozangulle.github.io/post/the-tomato-technique/</guid>
+      <description>&lt;p&gt;About two months ago, I rediscovered and started applying the pomodoro technique both in my professional and private life. My first encounter with the tomato was back when I was a mere student. It didn&amp;rsquo;t help me then, because I couldn&amp;rsquo;t understand a fundamental step in making it work. Now, after about 10 years since we&amp;rsquo;ve first met, I read about it again somewhere. Since I&amp;rsquo;m always looking for ways to increase my productivity, the curiosity got the best of me and I decided to give it a try. I&amp;rsquo;m very glad that I did that, because I finally understood what it is all about and how to use the technique.&lt;/p&gt;
+
+&lt;h2&gt;The Technique&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://cirillocompany.de/pages/pomodoro-technique&#34;&gt;technique itself&lt;/a&gt; is fairly simple. A pomodoro is a unit of work you do in 25 minutes. You set a timer for 25 minutes and start working. When your timer rings (or beeps or chimes or whatever your timer does) you take a short break for approximately 5 minutes. It&amp;rsquo;s not only important to work for the whole 25 minutes but also to take the break for the whole 5 minutes. You repeat this process three more times ( four times in total) and you&amp;rsquo;ve earned the right for a longer break from 15 to 30 minutes. I had already understood this part when I was a student. What I failed to grasp was how crucial it is to the whole process to split your tasks into actionable and verifiable tasks. Actionable means you can start working on them immediately and verifiable means you know when they&amp;rsquo;re done. If you don&amp;rsquo;t do this last part, pomodoro cannot help you.&lt;/p&gt;
+
+&lt;p&gt;When I look at it now, I realize how naïve I was to miss what at the core of the concept of &amp;ldquo;work&amp;rdquo; lies. Scott Hanselman explains it nicely in &lt;a href=&#34;https://youtu.be/IWPgUn8tL8s?t=779&#34;&gt;his speech&lt;/a&gt; that there are 3 kinds of &amp;ldquo;work&amp;rdquo;. You have:
+&lt;ol&gt;
+    &lt;li&gt;Pre-defined work&lt;/li&gt;
+    &lt;li&gt;Work as it Appears, and&lt;/li&gt;
+    &lt;li&gt;Defining Works&lt;/li&gt;
+&lt;/ol&gt;&lt;/p&gt;
+
+&lt;p&gt;The second one is the most dangerous one according to Scott Hanselmann (and I agree), because it hinders your ability to plan. When you&amp;rsquo;re dealing with work as it appears, you&amp;rsquo;re simply dealing with problems without any plan or direction. The pomodoro technique lets you concentrate on the first kind of work, namely pre-defined work. You should never sit down to a pomodoro session and expect work to appear. You setting that timer presupposes that you already know what you&amp;rsquo;re going to do next. But that&amp;rsquo;s not enough. In order to do that, you must have gone through the third step first (I know, it should have been the first item on the list). You should have already sat down and &amp;ldquo;worked&amp;rdquo; on what you are going to work on. This meta-work sounds like an ingenious idea to waste massive amounts of time but it is actually very, very important.&lt;/p&gt;
+
+&lt;p&gt;&lt;h2&gt;Advantages&lt;/h2&gt;
+Coming back to the pomodoro technique itself, it&amp;rsquo;s amazing how such a simple principle can enhance your productivity. It changed the way I work in several ways, but I want to list the two major lessons I learned from this technique.&lt;/p&gt;
+
+&lt;h4&gt;1. It thought me how much you can do in 25 minutes&lt;/h4&gt;
+
+&lt;p&gt;I was obsessed with the idea that you need at least an hour to start working in a meaningful way. If someone told me to start with a new project with half an hour left on the clock, I would have told them that there&amp;rsquo;s not enough time to do anything.&lt;/p&gt;
+
+&lt;p&gt;I was completely wrong. You cannot finish a project in half an hour, but you can still accomplish a lot in 25 minutes.&lt;/p&gt;
+
+&lt;h4&gt;2. It thought me how much it takes to do certain tasks&lt;/h4&gt;
+
+&lt;p&gt;Since you&amp;rsquo;re always working with a running timer, you end up having a pretty good idea about how much it takes you to finish certain tasks, like for example writing blog posts. It is a considerable boost in self-confidence to be able to successfully predict how much time something is going to cost you.&lt;/p&gt;
+
+&lt;h3&gt;Dealing with interruptions&lt;/h3&gt;
+
+&lt;p&gt;Now, the pomodoro technique is fine and dandy on paper, but how does it hold up to the challenges of the reality? Imagine the following scenario: You come to work in the morning; fresh, energetic, and full of motivation. You sit at your desk, set your timer, open your IDE, your editor or vim (you know who you are). A couple of minutes pass, you are slowly starting to concentrate on the task before you&amp;hellip;and then your phone rings. Or worse, someone comes over to your desk to ask you something. You snap out of your concentrated state and start dealing with this &amp;ldquo;work&amp;rdquo; that just appeared.&lt;/p&gt;
+
+&lt;p&gt;This is a terrible situation; not because you are interrupted and you need to stop working on whatever you planned to, but also the people who interrupted you are generally completely unaware of what they have done. Most people don&amp;rsquo;t realize that they are doing everyone involved a disservice by interrupting you. Interruption is a real pomodoro killer, since any interruption that takes more than a few minutes of your time renders the pomodoro void. Usually, you end up starting from scratch. Now you might think &amp;ldquo;it&amp;rsquo;s an imaginary unit of measurement anyway, what&amp;rsquo;s the big deal?&amp;rdquo;. Many units that we measure with are imaginary. Pomodoro is in this sense no less valid than the meter or the gramm. If you throw away the unit of measurement, you might as well throw away the whole system.&lt;/p&gt;
+
+&lt;p&gt;What&amp;rsquo;s the best way to deal with the interruptions then? First a dislaimer: I&amp;rsquo;m still working on a good solution. My current suggestion would be politely informing the other person that you are busy right now, but you would be more than happy to meet in &amp;ndash;say&amp;ndash; 10 or 20 minutes. In fact, I started making pomodoro sessions out of such small meetings. If I already know what the subject is, I can plan beforehand whether the meeting is worth one or two pomodoros (a meeting should never be longer than an hour in my opinion).&lt;/p&gt;
+
+&lt;p&gt;If you need to talk to someone who you know is using the pomodoro technique (or even if not), it might be a good idea to send a message (or an e-mail if you must) and ask to arrange some time to talk about the issue when the other person has the time. It lets everyone to accomplish whatever they were working on. After all, if you are on a pomodoro, you are only 25 minutes away from a break in the worst case scenario.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Race for Complexity</title>
