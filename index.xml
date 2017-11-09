@@ -5,8 +5,85 @@
     <link>https://ozangulle.github.io/</link>
     <description>Recent content on Ozan Gulle</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 18 Jul 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://ozangulle.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ozangulle.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why Do Good Programmers Write Bad Code - Part 1</title>
+      <link>https://ozangulle.github.io/post/good_coder_bad_code/</link>
+      <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ozangulle.github.io/post/good_coder_bad_code/</guid>
+      <description>Introduction &amp;ldquo;Why do good programmers write bad code&amp;rdquo; is a question I&amp;rsquo;ve been pondering on for quite a while now. The question doesn&amp;rsquo;t come out of nowhere. Every now and then when I&amp;rsquo;m reading code at work, I stumble upon pieces of abysmal code written by people whom I know to be great programmers. I also stumble upon abysmal code written by myself every now and then, which is a very discomforting experience.</description>
+    </item>
+    
+    <item>
+      <title>ELI5: Existentialism and Friederich Nietzsche</title>
+      <link>https://ozangulle.github.io/post/eli5_existentialism/</link>
+      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ozangulle.github.io/post/eli5_existentialism/</guid>
+      <description>This has to be one of the most entertaining videos I have ever seen on philosophy for a long time. It is also completely wrong content-wise; but still hilarious.
+ </description>
+    </item>
+    
+    <item>
+      <title>On Self Deception</title>
+      <link>https://ozangulle.github.io/post/on_self_deception/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ozangulle.github.io/post/on_self_deception/</guid>
+      <description>Here’s an interesting story I heard from one of my colleagues. It is a story of him discovering that he was a vegetarian through his friends. This person had a vegetarian girlfriend and he was thinking about the pros and cons of vegetarianism for a long time. When he was with his girlfriend, he was eating vegetarian, and he gradually started eating vegetarian even he was alone. At some point, while discussing with his friends where they should go for a meal, one of his friends suggested to going to a locale with a vegetarian cuisine because my colleague was a vegetarian.</description>
+    </item>
+    
+    <item>
+      <title>The Tomato Technique</title>
+      <link>https://ozangulle.github.io/post/the-tomato-technique/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ozangulle.github.io/post/the-tomato-technique/</guid>
+      <description>About two months ago, I rediscovered and started applying the pomodoro technique both in my professional and private life. My first encounter with the tomato was back when I was a mere student. It didn&amp;rsquo;t help me then, because I couldn&amp;rsquo;t understand a fundamental step in making it work. Now, after about 10 years since we&amp;rsquo;ve first met, I read about it again somewhere. Since I&amp;rsquo;m always looking for ways to increase my productivity, the curiosity got the best of me and I decided to give it a try.</description>
+    </item>
+    
+    <item>
+      <title>Race for Complexity</title>
+      <link>https://ozangulle.github.io/post/race-for-complexity/</link>
+      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ozangulle.github.io/post/race-for-complexity/</guid>
+      <description>Wikipedia defines race condition as:
+ A race condition or race hazard is the behavior of an electronic, software, or other system where the output is dependent on the sequence or timing of other uncontrollable events. It becomes a bug when events do not happen in the order the programmer intended. The term originates with the idea of two signals racing each other to influence the output first.  While it is used in different contexts &amp;ndash; as stated in the definition &amp;ndash; the main idea remains the same: The output is dependent on multiple processes and the order of these processes cannot be predetermined.</description>
+    </item>
+    
+    <item>
+      <title>On the Art of Staying Calm</title>
+      <link>https://ozangulle.github.io/post/on_staying_calm/</link>
+      <pubDate>Sat, 05 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ozangulle.github.io/post/on_staying_calm/</guid>
+      <description>I have a habit of wanting to dive straight into a new technology when I first encounter it. The strategy (or the lack thereof) consists of running straight at the problems, getting knocked back and then &amp;ndash; and only then &amp;ndash; taking the time to properly read the documentation. It is not a very effective method for learning things quickly, but it gets the things done. The trick is not to get frustrated when failure happens.</description>
+    </item>
+    
+    <item>
+      <title>New Shiny Product is Live</title>
+      <link>https://ozangulle.github.io/post/new_product_is_live/</link>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ozangulle.github.io/post/new_product_is_live/</guid>
+      <description>The main project I was working on for the better part of the last year is now live. The release of a new (or in this case, reworked) product is an exciting event. It is almost like releasing your pet into the wild.
+It is also interesting to observe the several stages of development &amp;ndash; or even better, the developer&amp;rsquo;s mind &amp;ndash; in retrospective. The whole ordeal is an emotional rollercoaster starting with a clean slate and a mindset of &amp;ldquo;this time we are going to make everything right from the get-go&amp;rdquo;, moving on to a long period where you conciously note every corner you cut for the sake of delivering on time, and then finally arriving to the state of panic where you know that the project is doomed and it will never be done.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://ozangulle.github.io/post/first_post/</link>
+      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ozangulle.github.io/post/first_post/</guid>
+      <description>I was thinking about moving to Github pages for while. Cancelled my previous hosting a month ago; started using Hugo for static site generation. Here&amp;rsquo;s the first post in all its glamour.</description>
+    </item>
     
     <item>
       <title></title>
@@ -23,23 +100,7 @@
       <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ozangulle.github.io/about/</guid>
-      <description>
-
-&lt;h2 id=&#34;background:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Background&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Linguistics Master and PhD&lt;/li&gt;
-&lt;li&gt;Worked at multiple universities&lt;/li&gt;
-&lt;li&gt;Got into the world of tech and finance&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;work:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Work&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Mainly front-end (Vue.js, Angular), also Node.js and PHP&lt;/li&gt;
-&lt;li&gt;Currently working for &lt;a href=&#34;http://www.eqs.com&#34;&gt;EQS&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description> Background  Linguistics Master and PhD Worked at multiple universities Got into the world of tech and finance  Work  Mainly front-end (Vue.js, Angular), also Node.js and PHP Currently working for EQS  </description>
     </item>
     
     <item>
@@ -48,211 +109,8 @@
       <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
       
       <guid>https://ozangulle.github.io/projects/</guid>
-      <description>
-
-&lt;h2 id=&#34;a-list-of-my-projects:3c42bb4157bf51d85ae7ffc4e1685909&#34;&gt;A List of My Projects&lt;/h2&gt;
-
-&lt;p&gt;I recently started doing open-source projects. Currently, I only have one:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/ozangulle/vue-detached-scrollbar&#34;&gt;vue-dispatched-scrollbar&lt;/a&gt; (&lt;a href=&#34;https://ozangulle.github.io/vue-detached-scrollbar&#34;&gt;demo&lt;/a&gt;)&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ELI5: Existentialism and Friederich Nietzsche</title>
-      <link>https://ozangulle.github.io/post/eli5_existentialism/</link>
-      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://ozangulle.github.io/post/eli5_existentialism/</guid>
-      <description>&lt;p&gt;This has to be one of the most entertaining videos I have ever seen on philosophy for a long time. It is also completely wrong content-wise; but still hilarious.&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube-nocookie.com/embed/Kvz0CjtwH2k&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>On Self Deception</title>
-      <link>https://ozangulle.github.io/post/on_self_deception/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://ozangulle.github.io/post/on_self_deception/</guid>
-      <description>&lt;p&gt;Here’s an interesting story I heard from one of my colleagues. It is a story of him discovering that he was a vegetarian through his friends. This person had a vegetarian girlfriend and he was thinking about the pros and cons of vegetarianism for a long time. When he was with his girlfriend, he was eating vegetarian, and he gradually started eating vegetarian even he was alone. At some point, while discussing with his friends where they should go for a meal, one of his friends suggested to going to a locale with a vegetarian cuisine because my colleague was a vegetarian. This &amp;ndash;apparently&amp;ndash; caught him by surprise. After pondering upon it for a short while, he realized that he was indeed eating a vegetarian diet, even though he has never considered himself to be one. He realized that he was a vegetarian through the others. They, in a way, knew this aspect of him better than he himself. I would like to tie this story to a concept that I find very interesting, namely the concept of self-deception. I am in no way suggesting that my colleague was deceiving himself, but his story anecdotally proves that we may not always be aware of our own nature.&lt;/p&gt;
-
-&lt;h2&gt;Self Deception and Bad Faith&lt;/h2&gt;
-
-&lt;p&gt;One of the fascinating aspects of the human nature is its capability of self-deception. A very basic model of deception would be A intentionally getting B to believe that p while believing or knowing that ~p. So A know that ~p, but somehow makes B believe that p. If self-deception is one deceiving himself, then it must be A believing or knowing p while also believing ~p. Thus, it presupposes that A at some point must know both that p and ~p (see &lt;a href=&#34;https://plato.stanford.edu/entries/self-deception/&#34;&gt;Stanford Encyclopedia of Philosophy&lt;/a&gt;, &lt;a href=&#34;http://www.iep.utm.edu/eth-self/&#34;&gt;Internet Encyclopedia of Philosophy&lt;/a&gt; ). Both sources agree that this is highly unlikely, as knowing the truth makes deception almost impossible. Self-deception is more likely to have a different dynamic where A actively or passively suppresses p  while believing ~p (or vice versa), whereas whether p is actually suppressed is subject to debate.&lt;/p&gt;
-
-&lt;p&gt;Self-deception is closely related to the concept of bad faith which can be summarized by acting inauthentically. A person is said to be acting in bad faith, when he acts not according to his will (thus authentically), but according to what the society is expecting from him. Furthermore, a person who fails to realize that there is a decision to be made or simply refuses to make a decision (thus exercising his freedom) is also acting in bad faith.&lt;/p&gt;
-
-&lt;p&gt;Since this blog has also an IT flair to it, imagine the decisions of someone working in the IT. How often does he (or we) act as an IT professional because we were told that this is how we were supposed to behave, or we extrapolate this certain behaviour from what we have heard from other professionals. Here&amp;rsquo;s an excerpt from Sartre&amp;rsquo;s Being and Nothingness (&lt;a href=&#34;http://dbanach.com/sincer.htm&#34;&gt;online source&lt;/a&gt;):&lt;/p&gt;
-
-&lt;blockquote&gt;
-Let us consider this waiter in the cafe. His movement is quick and forward, a little too precise, a little too rapid. He comes toward the patrons with a step a little too quick. He bends forward a little too eagerly; his voice, his eyes express an interest a little too solicitous for the order of the customer. Finally there he returns, trying to imitate in his walk the inflexible stiffness of some kind of automaton while carrying his tray with the recklessness of a tight-rope-walker by putting it in a perpetually unstable, perpetually broken equilibrium which he perpetually re-establishes by a light movement of the arm and hand. All his behavior seems to us a game. He applies himself to chaining his movements as if they were mechanisms, the one regulating the other; his gestures and even his voice seem to be mechanisms; he gives himself the quickness and pitiless rapidity of things. He is playing, he is amusing himself. But what is he playing? We need not watch long before we can explain it: he is playing at being a waiter in a cafe. There is nothing there to surprise us. The game is a kind of marking out and investigation. The child plays with his body in order to explore it, to take inventory of it; the waiter in the cafe plays with his condition in order to realize it. This obligation is not different from that which is imposed on all tradesmen. Their condition is wholly one of ceremony. The public demands of them that they realize it as a ceremony; there is the dance of the grocer, of the tailor, of the auctioneer, by which they endeavor to persuade their clientele that they are nothing but a grocer, an auctioneer, a tailor. A grocer who dreams is offensive to the buyer, because such a grocer is not wholly a grocer. Society demands that he limit himself to his function as a grocer, just as the soldier at attention makes himself into a soldier-thing with a direct regard which does not see at all, which is no longer meant to see, since it is the rule and not the interest of the moment which determines the point he must fix his eyes on (the sight &#34;fixed at ten paces&#34;). There are indeed many precautions to imprison a man in what he is, as if we lived in perpetual fear that he might escape from it, that he might break away and suddenly elude his condition.
-&lt;/blockquote&gt;
-
-&lt;p&gt;Since human beings are not only free to choose but they are “condemned to freedom”, acting in bad faith prevents oneself from choosing, or acknowledging the reality and acting accordingly.&lt;/p&gt;
-
-&lt;p&gt;I think it is fair to assume that acting in bad faith is an aspect of self-deception. It is only an aspect of it since self-deception can be seen as a broader subject. There are different ways one can deceive himself. Acting in bad faith, on the other hand, requires not only deceiving oneself but also in a way refusing to be authentic. I am not going to try to explain what these concepts mean in depth since I lack both time and the expertise for this task. I am more interested in raising awareness to the fact that these concepts do exist and it may be another topic in which we can use philosophical ideas to help us avoid certain behaviours in our everyday life.&lt;/p&gt;
-
-&lt;h2&gt;How Does It Affect Us?&lt;/h2&gt;
-
-&lt;p&gt;In his article &amp;ldquo;&lt;a href=&#34;http://www.society-for-philosophy-in-practice.org/journal/pdf/5-2%2046%20Arnold-Baker%20-%20Bad%20Faith.pdf&#34;&gt;What is so Bad about Bad Faith&lt;/a&gt;&amp;rdquo;, Claire Arnold-Baker argues that bad faith is not only not necessarily bad but sometimes even good for an individual in order to function. I am not necessarily convinced that bad faith in necessary nor do I completely understand the logic conclusion that it is necessary. However, even though we accept it as a necessary part of life, we need to ask ourself, whether we are getting too much of a &amp;ldquo;good thing&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;I think it can be a character strengthening exercise to ask yourself whether you are deceiving yourself or whether you are acting in bad faith. I am not going to provide any examples from my life nor do I expect anyone else to do it, since confessing these things is a very intimate matter. Furthermore, there is nothing stopping you from deceiving others. Technically, there isn’t even anything stopping you from deceiving yourself except for the inevitable confrontation with yourself in the future; usually at night when there’s nothing left to distract you and you are “left” alone with yourself.&lt;/p&gt;
-
-&lt;p&gt;Currently, I am interested in finding out whether it is possible to have a set of &amp;ldquo;rules&amp;rdquo; (questions, really) to make a reality check about the way I act. Questions like: &amp;ldquo;Am I acting this way because this is who I am, what I think or what I believe; or because this is what is expected from me?&amp;rdquo; I believe such an existentialist practice has the potential be a part of one&amp;rsquo;s daily routine, and help one to become a better person.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Tomato Technique</title>
-      <link>https://ozangulle.github.io/post/the-tomato-technique/</link>
-      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://ozangulle.github.io/post/the-tomato-technique/</guid>
-      <description>&lt;p&gt;About two months ago, I rediscovered and started applying the pomodoro technique both in my professional and private life. My first encounter with the tomato was back when I was a mere student. It didn&amp;rsquo;t help me then, because I couldn&amp;rsquo;t understand a fundamental step in making it work. Now, after about 10 years since we&amp;rsquo;ve first met, I read about it again somewhere. Since I&amp;rsquo;m always looking for ways to increase my productivity, the curiosity got the best of me and I decided to give it a try. I&amp;rsquo;m very glad that I did that, because I finally understood what it is all about and how to use the technique.&lt;/p&gt;
-
-&lt;h2&gt;The Technique&lt;/h2&gt;
-
-&lt;p&gt;The &lt;a href=&#34;https://cirillocompany.de/pages/pomodoro-technique&#34;&gt;technique itself&lt;/a&gt; is fairly simple. A pomodoro is a unit of work you do in 25 minutes. You set a timer for 25 minutes and start working. When your timer rings (or beeps or chimes or whatever your timer does) you take a short break for approximately 5 minutes. It&amp;rsquo;s not only important to work for the whole 25 minutes but also to take the break for the whole 5 minutes. You repeat this process three more times ( four times in total) and you&amp;rsquo;ve earned the right for a longer break from 15 to 30 minutes. I had already understood this part when I was a student. What I failed to grasp was how crucial it is to the whole process to split your tasks into actionable and verifiable tasks. Actionable means you can start working on them immediately and verifiable means you know when they&amp;rsquo;re done. If you don&amp;rsquo;t do this last part, pomodoro cannot help you.&lt;/p&gt;
-
-&lt;p&gt;When I look at it now, I realize how naïve I was to miss what at the core of the concept of &amp;ldquo;work&amp;rdquo; lies. Scott Hanselman explains it nicely in &lt;a href=&#34;https://youtu.be/IWPgUn8tL8s?t=779&#34;&gt;his speech&lt;/a&gt; that there are 3 kinds of &amp;ldquo;work&amp;rdquo;. You have:
-&lt;ol&gt;
-    &lt;li&gt;Pre-defined work&lt;/li&gt;
-    &lt;li&gt;Work as it Appears, and&lt;/li&gt;
-    &lt;li&gt;Defining Works&lt;/li&gt;
-&lt;/ol&gt;&lt;/p&gt;
-
-&lt;p&gt;The second one is the most dangerous one according to Scott Hanselmann (and I agree), because it hinders your ability to plan. When you&amp;rsquo;re dealing with work as it appears, you&amp;rsquo;re simply dealing with problems without any plan or direction. The pomodoro technique lets you concentrate on the first kind of work, namely pre-defined work. You should never sit down to a pomodoro session and expect work to appear. You setting that timer presupposes that you already know what you&amp;rsquo;re going to do next. But that&amp;rsquo;s not enough. In order to do that, you must have gone through the third step first (I know, it should have been the first item on the list). You should have already sat down and &amp;ldquo;worked&amp;rdquo; on what you are going to work on. This meta-work sounds like an ingenious idea to waste massive amounts of time but it is actually very, very important.&lt;/p&gt;
-
-&lt;p&gt;&lt;h2&gt;Advantages&lt;/h2&gt;
-Coming back to the pomodoro technique itself, it&amp;rsquo;s amazing how such a simple principle can enhance your productivity. It changed the way I work in several ways, but I want to list the two major lessons I learned from this technique.&lt;/p&gt;
-
-&lt;h4&gt;1. It thought me how much you can do in 25 minutes&lt;/h4&gt;
-
-&lt;p&gt;I was obsessed with the idea that you need at least an hour to start working in a meaningful way. If someone told me to start with a new project with half an hour left on the clock, I would have told them that there&amp;rsquo;s not enough time to do anything.&lt;/p&gt;
-
-&lt;p&gt;I was completely wrong. You cannot finish a project in half an hour, but you can still accomplish a lot in 25 minutes.&lt;/p&gt;
-
-&lt;h4&gt;2. It thought me how much it takes to do certain tasks&lt;/h4&gt;
-
-&lt;p&gt;Since you&amp;rsquo;re always working with a running timer, you end up having a pretty good idea about how much it takes you to finish certain tasks, like for example writing blog posts. It is a considerable boost in self-confidence to be able to successfully predict how much time something is going to cost you.&lt;/p&gt;
-
-&lt;h3&gt;Dealing with interruptions&lt;/h3&gt;
-
-&lt;p&gt;Now, the pomodoro technique is fine and dandy on paper, but how does it hold up to the challenges of the reality? Imagine the following scenario: You come to work in the morning; fresh, energetic, and full of motivation. You sit at your desk, set your timer, open your IDE, your editor or vim (you know who you are). A couple of minutes pass, you are slowly starting to concentrate on the task before you&amp;hellip;and then your phone rings. Or worse, someone comes over to your desk to ask you something. You snap out of your concentrated state and start dealing with this &amp;ldquo;work&amp;rdquo; that just appeared.&lt;/p&gt;
-
-&lt;p&gt;This is a terrible situation; not because you are interrupted and you need to stop working on whatever you planned to, but also the people who interrupted you are generally completely unaware of what they have done. Most people don&amp;rsquo;t realize that they are doing everyone involved a disservice by interrupting you. Interruption is a real pomodoro killer, since any interruption that takes more than a few minutes of your time renders the pomodoro void. Usually, you end up starting from scratch. Now you might think &amp;ldquo;it&amp;rsquo;s an imaginary unit of measurement anyway, what&amp;rsquo;s the big deal?&amp;rdquo;. Many units that we measure with are imaginary. Pomodoro is in this sense no less valid than the meter or the gramm. If you throw away the unit of measurement, you might as well throw away the whole system.&lt;/p&gt;
-
-&lt;p&gt;What&amp;rsquo;s the best way to deal with the interruptions then? First a dislaimer: I&amp;rsquo;m still working on a good solution. My current suggestion would be politely informing the other person that you are busy right now, but you would be more than happy to meet in &amp;ndash;say&amp;ndash; 10 or 20 minutes. In fact, I started making pomodoro sessions out of such small meetings. If I already know what the subject is, I can plan beforehand whether the meeting is worth one or two pomodoros (a meeting should never be longer than an hour in my opinion).&lt;/p&gt;
-
-&lt;p&gt;If you need to talk to someone who you know is using the pomodoro technique (or even if not), it might be a good idea to send a message (or an e-mail if you must) and ask to arrange some time to talk about the issue when the other person has the time. It lets everyone to accomplish whatever they were working on. After all, if you are on a pomodoro, you are only 25 minutes away from a break in the worst case scenario.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Race for Complexity</title>
-      <link>https://ozangulle.github.io/post/race-for-complexity/</link>
-      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://ozangulle.github.io/post/race-for-complexity/</guid>
-      <description>&lt;p&gt;Wikipedia defines &lt;a href=&#34;https://en.wikipedia.org/wiki/Race_condition&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;race condition&lt;/a&gt; as:&lt;/p&gt;
-
-&lt;blockquote&gt;
-A race condition or race hazard is the behavior of an electronic, software, or other system where the output is dependent on the sequence or timing of other uncontrollable events. It becomes a bug when events do not happen in the order the programmer intended. The term originates with the idea of two signals racing each other to influence the output first. 
-&lt;/blockquote&gt;
-
-&lt;p&gt;While it is used in different contexts &amp;ndash; as stated in the definition &amp;ndash; the main idea remains the same: The output is dependent on multiple processes and the order of these processes cannot be predetermined.&lt;/p&gt;
-
-&lt;p&gt;There is, however, another race condition in software development adding up to the overall complexity that doesn’t happen on the machine side, but on the human side of things. It is often said that programming is about managing complexity. This is very true and programmers go great lengths, even institutionalize certain rituals, in order to manage complexity. The code, however, is not complex out of necessity. The code &lt;em&gt;gets&lt;/em&gt; complex, because we humans make it complex; or rather, we cause the conditions which cause the code to become complex. Therefore, in order to get to the root of the problem, we need not only manage the complexity in the code but also in the projects themselves.&lt;/p&gt;
-
-&lt;p&gt;The reason I cited the definition of race condition in the beginning is because in time, I came to think that human interactions can have race conditions as well. When a single person plans and writes a piece of code, it rarely gets so complex that it gets out of hand. On the one hand, this has to do with the fact that a single person has more limited resources, i.e. time, when it comes to it; but even in long single-man projects, things seldom get as messed up as in projects with several developers.&lt;/p&gt;
-
-&lt;p&gt;Ultimately, we get several people trying to change the business logic and the requirements at the same time. It&amp;rsquo;s a race condition on a project level. There is another word for this in real life though: miscommunication. The main difference between electric signals and human beings is that we expect the human beings to communicate with each other and organize (or re-organize) the processes (and themselves) accordingly. But at some point, you find yourself trying to implement a feature which has conflicting requirements from different parties; or you discover that you are working on something which directly conflicts with another thing that someone else is implementing; or you find out that several people are working on the same thing independently because there is no coordination. Sometimes, you don&amp;rsquo;t even know what you&amp;rsquo;re supposed to do because not only are you receiving conflicting requirements but the requirements themselves are also underspecified.&lt;/p&gt;
-
-&lt;p&gt;This behaviour does not exclusively concern the business side of things. We also have programmers making simultaneous changes on the code base: writing new code, rewriting the old code, moving things in order to better organize them etc. But when it comes to code, we have ways of dealing with these problems. We have our SOLID and DRY principles that we all love and use (at least in theory). But how do you deal with people? You cannot handle them on a single-thread just like you would with a race condition to solve your problems. Even though coding is often accepted as an art form, there is obviously a very technical and objective side to it. When you’re dealing with people, you’re dealing with feelings and ambitions, and these things are much more difficult to handle than the code itself.&lt;/p&gt;
-
-&lt;p&gt;In my opinion and experience, two concepts from programming can be used to solve these problems: Separation of concerns, and single source of truth. The former can be used to group people into different categories in an MVC-like pattern. In every project you have:
-&lt;ol&gt;
-    &lt;li&gt;People responsible for deciding what the software should do&lt;/li&gt;
-    &lt;li&gt;People responsible for communicating what the software should do&lt;/li&gt;
-    &lt;li&gt;People who actually make the software&lt;/li&gt;
-&lt;/ol&gt;&lt;/p&gt;
-
-&lt;p&gt;The latter concept can be applied by having the second group create a single source of truth. This database of requirements can only by changed by the second group and by noone else. Thus, you eliminate the risk of the first group leaking into the set of instructions for the third group.&lt;/p&gt;
-
-&lt;p&gt;I cannot be the only one who first came up with the idea and it might very well be that this is actually in all of the textbooks about project management. However, I have yet to see an actualy project where roles are so clear cut. People are not programs, so they are usually not only good for a single task but for various different tasks. It is a valid concern to be afraid of not being able to use the whole spectrum of a person&amp;rsquo;s skillset for the company. It is, after all, paying for these skills. Also as previous mentioned, people come with feelings, and you have office politics coupled with complex human interactions to account for. Handling these complexities is, in the end, what separates successful teams from the rest.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>On the Art of Staying Calm</title>
-      <link>https://ozangulle.github.io/post/on_staying_calm/</link>
-      <pubDate>Sat, 05 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://ozangulle.github.io/post/on_staying_calm/</guid>
-      <description>&lt;p&gt;I have a habit of wanting to dive straight into a new technology when I first encounter it. The strategy (or the lack thereof) consists of running straight at the problems, getting knocked back and then &amp;ndash; and only then &amp;ndash; taking the time to properly read the documentation. It is not a very effective method for learning things quickly, but it gets the things done. The trick is not to get frustrated when failure happens. Since failure is almost guaranteed to happen, it seldom frustrates me anymore. There is, however, one part of my job which makes me lose any trace of serenity I might have on a busy day and that&amp;rsquo;s debugging. Whenever I receive a bug report, I feel I&amp;rsquo;m under an immense stress to fix it. It gives me the feeling that I have left someone down. There is usually also a very real expectation to find a solution to this problem, which may be accompanied by an e-mail, or worse, a phone call.&lt;/p&gt;
-
-&lt;p&gt;Obviously, this is not the only stressful part of my everyday life. Having a Mediterranean temper, I sometimes have to force myself to take coffee breaks just to cool down. The reason for getting stressed can be just about anything.&lt;/p&gt;
-
-&lt;p&gt;Last weekend, while playing around on my raspberry pi and breaking things, I remembered a very interesting passage from Robert M. Pirsig&amp;rsquo;s great work &amp;ldquo;Zen and the Art of Motorcycle Maintenance: An Inquiry into Values&amp;rdquo;. The book is about the protagonist&amp;rsquo;s motorcycle trip through the USA with his son and his meditations on &amp;ndash; among other things &amp;ndash; what makes up quality. At some point in the story, during one of the many monologues of the protagonist, the following comes up:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;[...]  is that I&#39;ve a set of instructions at home which open up great realms for the improvement of technical writing. They begin, &#39;Assembly of Japanese bicycle require great peace of mind.&#39;[...]&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;After hearing this protagonist&amp;rsquo;s friends have a good laugh; but he continues on explaining the idea behind it.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&#34;Peace of mind isn&#39;t at all superficial, really,&#34; I expound. &#34;It&#39;s the whole thing. That which produces it is good maintenance; that which disturbs it is poor maintenance. What we call workability of the machine is just an objectification of this peace of mind. The ultimate test&#39;s always your own serenity. If you don&#39;t have this when you start and maintain it while you&#39;re working you&#39;re likely to build your personal problems right into the machine itself.&#34;&lt;/p&gt;
-
-&lt;p&gt;They just look at me, thinking about this.&lt;/p&gt;
-
-&lt;p&gt;&#34;It&#39;s an unconventional concept,&#34; I say, &#34;but conventional reason bears it out. The material object of observation, the bicycle or rotisserie, can&#39;t be right or wrong. Molecules are molecules. They don&#39;t have any ethical codes to follow except those people give them. The test of the machine is the satisfaction it gives you. There isn&#39;t any other test.[...]&#34;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Have I been building my personal problems into the code itself while I was working? It sounds like a terrible thing to do. Pirsig is talking about bicycles and machines but this concept is applicable to any kind of work. Without a &amp;ldquo;great piece of mind&amp;rdquo; it&amp;rsquo;s not possible to achieve any kind of quality, this latter one being the main pursuit of Pirsig in his work.&lt;/p&gt;
-
-&lt;p&gt;It should be obvious that one cannot cause serenity in oneself just by stating that fact that it is a necessity; otherwise every anxiety patient could have been treated simply by telling them to calm down. Maintaining your serenity is a skill just like any other, and it must be practiced just like any other skill. This reminds one of the daily excercises that the Stoics prescribed to the ones who want to follow their philosophy. Stoics thought (and still do) that philosophy should be &amp;ndash; first of all &amp;ndash; practical and practiced in real life. By constantly honing our skills, the practices help us reach mindfulness which then helps us acting virtuously. Stoics have lots good advice that are applicable in everyday life, even though they are some two thousand years old. Marcus Aurelius, a famous Stoic, wrote in his &amp;ldquo;Meditations&amp;rdquo;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-Say to yourself in the early morning: I shall meet today inquisitive, ungrateful, violent, treacherous, envious, uncharitable men. All these things have come upon them through ignorance of real good and ill.
-&lt;/blockquote&gt;
-
-&lt;p&gt;And if that doesn&amp;rsquo;t help, consider the following:&lt;/p&gt;
-
-&lt;blockquote&gt;
-Soon you will have forgotten the world, and soon the world will have forgotten you.
-&lt;/blockquote&gt;
-
-&lt;p&gt;I will not go into the details of the Stoic daily practices since this is a very broad topic that I cannot cover here extensively. In any case, the idea is that with constant practice of self-discipline and mindfulness, one can achieve a level of calamity and peace that directly affects the work that one is doing. This is definitely a skillset worth looking further into as it improves almost every aspect of your life.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New Shiny Product is Live</title>
-      <link>https://ozangulle.github.io/post/new_product_is_live/</link>
-      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://ozangulle.github.io/post/new_product_is_live/</guid>
-      <description>&lt;p&gt;The main project I was working on for the better part of the last year is now live. The release of a new (or in this case, reworked) product is an exciting event. It is almost like releasing your pet into the wild.&lt;/p&gt;
-
-&lt;p&gt;It is also interesting to observe the several stages of development &amp;ndash; or even better, the developer&amp;rsquo;s mind &amp;ndash; in retrospective. The whole ordeal is an emotional rollercoaster starting with a clean slate and a mindset of &amp;ldquo;this time we are going to make everything right from the get-go&amp;rdquo;, moving on to a long period where you conciously note every corner you cut for the sake of delivering on time, and then finally arriving to the state of panic where you know that the project is doomed and it will never be done. Most of the development teams are resilient enough to overcome this last hurdle and ship the product in time.&lt;/p&gt;
-
-&lt;p&gt;In the end, these feelings towards a project are definitely not exclusive for IT projects. We humans in general tend to suffer from the &amp;ldquo;this time syndrome&amp;rdquo;. While at the university, how often did you say &amp;ldquo;this time it&amp;rsquo;s all going to be different&amp;rdquo; before starting a semester, or a school year for that matter. The attitude we see during development is the same. You say: &amp;ldquo;This time, I&amp;rsquo;m going to make everything by the book. I will abide by every best practice, I will write tests and do periodical code-reviews&amp;hellip;&amp;rdquo;. Then we are faced with the reality, and maybe we also lack the drive to do everything right after a certain point. Countless meetings, discussions, and frustrating hours with your own code often leaves you tired mentally. And when we are tired, we tend to let go of our ideals and let the frustration get the best of us, which leaves us regret many things we did at the end.&lt;/p&gt;
-
-&lt;p&gt;Maybe the solution is to manage our expectations. No project in the real world happens under ideal lab conditions. If we could know what to expect from the very beginning and still manage to maintain the motivation to the right things, then we might be able to have pulled most of them off by the end of the project. As Seneca said, &amp;ldquo;we suffer more in imagination than in reality&amp;rdquo;. By accepting that everything in this world will be flawed in one way or the other, we can concentrate on improving them instead of complaining that they are not perfect.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>https://ozangulle.github.io/post/first_post/</link>
-      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://ozangulle.github.io/post/first_post/</guid>
-      <description>&lt;p&gt;I was thinking about moving to Github pages for while. Cancelled my previous hosting a month ago; started using Hugo for static site generation. Here&amp;rsquo;s the first post in all its glamour.&lt;/p&gt;
-</description>
+      <description>A List of My Projects I recently started doing open-source projects. Currently, I only have one:
+vue-dispatched-scrollbar (demo)</description>
     </item>
     
   </channel>

@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <meta name="generator" content="Hugo 0.30.2" />
+
+  <title>Why Do Good Programmers Write Bad Code - Part 1 &middot; Ozan Gulle</title>
+
+  
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/0.6.2/pure-min.css">
+
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/0.6.2/grids-responsive-old-ie-min.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pure/0.6.2/grids-responsive-min.css">
+  <!--<![endif]-->
+
+  <!--[if lte IE 8]>
+  <link rel="stylesheet" href="https://ozangulle.github.io/css/side-menu-old-ie.css">
+  <![endif]-->
+  <!--[if gt IE 8]><!-->
+  <link rel="stylesheet" href="https://ozangulle.github.io/css/side-menu.css">
+  <!--<![endif]-->
+
+  <link rel="stylesheet" href="https://ozangulle.github.io/css/blackburn.css">
+
+  
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet" type="text/css">
+
+  
+  
+
+  
+
+  <link rel="shortcut icon" href="https://ozangulle.github.io/img/favicon.ico" type="image/x-icon" />
+
+  
+    <link rel="stylesheet" href="https://ozangulle.github.io/css/my.css">
+  
+  
+    <script src="https://ozangulle.github.io/js/my.js"></script>
+  
+
+</head>
+
+
+<body>
+<div id="layout">
+
+  
+<a href="#menu" id="menuLink" class="menu-link">
+  
+  <span></span>
+</a>
+<div id="menu">
+
+  
+  <a class="pure-menu-heading brand" href="https://ozangulle.github.io/">Menu</a>
+
+
+  <div class="pure-menu">
+    <ul class="pure-menu-list">
+      
+      
+        <li class="pure-menu-item">
+          <a class="pure-menu-link" href="https://ozangulle.github.io/"><i class='fa fa-home fa-fw'></i>Home</a>
+      
+        </li>
+      
+      
+        <li class="pure-menu-item">
+          <a class="pure-menu-link" href="https://ozangulle.github.io/about/"><i class='fa fa-user fa-fw'></i>About</a>
+      
+        </li>
+      
+      
+        <li class="pure-menu-item">
+          <a class="pure-menu-link" href="https://ozangulle.github.io/projects/"><i class='fa fa-pencil fa-fw'></i>Projects</a>
+      
+        </li>
+      
+      
+        <li class="pure-menu-item">
+          <a class="pure-menu-link" href="https://ozangulle.github.io/post/"><i class='fa fa-list fa-fw'></i>Posts</a>
+      
+        </li>
+      
+    </ul>
+  </div>
+
+  <div class="pure-menu social">
+  <ul class="pure-menu-list">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://xing.com/profile/Ozan_Gulle" target="_blank"><i class="fa fa-xing-square fa-fw"></i>Xing</a>
+    </li>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    <li class="pure-menu-item">
+      <a class="pure-menu-link" href="https://github.com/ozangulle" target="_blank"><i class="fa fa-github-square fa-fw"></i>GitHub</a>
+    </li>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+  </ul>
+</div>
+
+
+  <div>
+  <div class="small-print">
+    <small></small>
+  </div>
+  <div class="small-print">
+    <small>Built with&nbsp;<a href="https://gohugo.io/" target="_blank">Hugo</a></small>
+    <small>Theme&nbsp;<a href="https://github.com/yoshiharuyamashita/blackburn" target="_blank">Blackburn</a></small>
+  </div>
+</div>
+
+</div>
+
+
+  <div id="main">
+
+
+<div class="header">
+  <h1>Why Do Good Programmers Write Bad Code - Part 1</h1>
+  <h2></h2>
+</div>
+<div class="content">
+
+  <div class="post-meta">
+
+  <div>
+    <i class="fa fa-calendar fa-fw"></i>
+    <time>09 Nov 2017</time>
+    by <strong>Ozan Gulle</strong>
+  </div>
+
+  
+
+  
+
+  
+
+</div>
+
+  <h2>Introduction</h2>
+
+<p>&ldquo;Why do good programmers write bad code&rdquo; is a question I&rsquo;ve been pondering on for quite a while now. The question doesn&rsquo;t come out of nowhere. Every now and then when I&rsquo;m reading code at work, I stumble upon pieces of abysmal code written by people whom I know to be great programmers. I also stumble upon abysmal code written by myself every now and then, which is a very discomforting experience. I believe almost every programmer would admit that they have written bad code at some point in their career. We have all written bad code at some point, sometimes even knowingly. When I say &ldquo;good programmer&rdquo; here, I mean someone who under normal circumstances writes good code, someone capable of solving the problems that you throw at them. What I&rsquo;m interested in finding out is: Why does someone who usually writes good code suddenly start writing bad code.</p>
+
+<p>This post turned out to be quite research intensive and long, so I ended up splitting it into two posts. In this one, I will discuss what bad code is and examine the reasons for it. The next post will be about strategies on avoiding these issues.</p>
+
+<h2>Bad Code</h2>
+
+<p>What exactly is bad code? Well, it&rsquo;s basically code that isn&rsquo;t good. It sounds like a cheap redundant answer, but I want to argue that it is not. I think it is much easier to define bad code as opposed to good code and then define the latter explicitly. This is because there are usually a handful ways of getting something right, but a lot of things can go &ldquo;bad&rdquo; in the process. Sure, there are usually multiple ways of doing things right in a given scenario, but it usually boils down to a handful of methods. These methods endured the test of time and were proven to be successful if they are employed correctly. This proven methodology is where the &ldquo;engineering&rdquo; part in many programmer titles comes from. The use of this word is
+<a href="https://www.theatlantic.com/technology/archive/2015/11/programmers-should-not-call-themselves-engineers/414271/">definitely not without opposition</a>, but it serves a right purpose.</p>
+
+<p>I will not try to define good or bad code here since not only would that take too much space, but it is also a topic examined by numerous people before me. Without going into definitions, I want to refer to a great talk from Raquel Velez (npm) about bad code. <a href="https://www.youtube.com/watch?v=3m1JoFf-poQ">In her speech during JavaScript NZ, 2017</a>, she described and categorized bad code as follows:
+<ol>
+    <li>functionality</li>
+    <ol type="a">
+        <li>malicious/immoral code</li>
+        <li>non-functional/partially-functional/buggy code</li>
+        <li>code with security flaws</li>
+        <li>code that doesn&rsquo;t handle edge cases</li>
+    </ol>
+    <li>maintainability</li>
+    <ol type="a">
+        <li>code with bad architecture aka. &ldquo;spaghetti&rdquo; code</li>
+        <li>code with unknown side effects aka. false advertising in code</li>
+    </ol>
+    <li>readability</li>
+    <ol type="a">
+        <li>cryptic/&ldquo;clever&rdquo; code</li>
+        <li>really long functions</li>
+        <li>code that doesn&rsquo;t match styling standards</li>
+    </ol>
+</ol></p>
+
+<p>For the sake of not further expanding the scope of this post, I&rsquo;m leaving out the first and the last elements on this list &ndash; malicious code and code that doesn&rsquo;t match styling standards &ndash; since the former is a completely different topic on its own and the latter is a styling issue as the name suggests. What am interested in is a) non-functional or partially functional code, b) unmaintainable code, c) unreadable code, or d) any combination of these.</p>
+
+<p>All of these are detrimental because they affect the quality of a project with a severity level that corresponds to their position on the list. If there is something functionally wrong with the code, it would not work as intended. This is also the only category of bad code where the users themselves may realize that the code must have been poorly written. This is why it is the worst kind of bad code you can have. If your codebase is <em>just</em> unmaintainable, it is at least working as intended. As long as you don&rsquo;t need to extend the functionality or encounter any bugs, you can leave it running. It is, of course, a huge liability because it is very difficult to debug and no one in your team would voluntarily go anywhere near it. The least severe kind of bad code is the one that is difficult to read. This kind of code ends up making your project slower to debug or extend, thus making it more expensive.</p>
+
+<h2>Reasons for Writing Bad Code</h2>
+
+<p>It turns out that categorizing bad code is much easier than finding out why bad code happens. The methodological difficulty arises from the fact that nobody pays multiple teams of programmers over several months or years to conduct carefully designed experiments. Every paper written about this topic is based on real world examples where there is no control group and there are numerous variables involved in the outcome.</p>
+
+<p>I also want to point out that I am not interested here in finding out why IT projects fail. You can have people writing bad code in a successful IT project, or a project completely fail without any bad code smells. There are very interesting articles out there such as
+<a href="https://sites.hks.harvard.edu/m-rcbg/ethiopia/Publications/Top%2010%20Reasons%20Why%20Systems%20Projects%20Fail.pdf">this one here</a>
+which investigate why certain projects fail. It is admittedly a very interesting topic, but it is not what&rsquo;s being examined here.</p>
+
+<p>In their research <a href="http://www.upedu.org/papers/ICSE2015_OrganizationalFactors/LavalleeRobillard_ICSE2015_WhyGoodDevelopersWriteBadCode.pdf">Why Good Developers Write Bad Code: An Observational Case Study of the Impacts of Organizational Factors on Software Quality</a> Lavallée &amp; Robillard (2015) observed a development process over two years in a well established company. They list ten causes which affect the quality. Lavallée &amp; Robillard (2015) never explicitly state what they mean with &ldquo;quality&rdquo;, and I take that they use the word with regards to functionality. Since they observed a single team from a reputable company for this paper, I&rsquo;m assuming that maintainability and readability were not much of a problem (but you never know). Nevertheless, I do think that the points they mention may also cause maintainability and readability problems in code. Since functionality has a higher priority in a project, if the severity of the problems have come so far, I would expect the best practices of maintainability and readability to have been already sacrificed.</p>
+
+<p>The ten causes that affect the quality in their study are: 1) documenting complexity, 2) internal dependencies, 3) external dependencies, 4) hosting by third parties, 5) organically grown processes, 6) budget protection, 7) scope protection, 8) organizational politics, 9) human resource planning, and 10) undue pressure. I would like to leave out several of the points above, since these are issues that affect the overall quality of the project, but don&rsquo;t necessarily produce bad code as I defined it. furthermore, I think it is possible to concentrate the arguments they provide into four main issues which can be then further grouped under two main categories:
+<ol>
+    <li>Organizational problems on the company/management level</li>
+    <ul>
+        <li><strong>Human resource planning</strong>: This refers to freelancers who leave the project prematurely because their contracts expire. With them goes the knowledge that they have acquired during the project. This point can be expanded to any kind of changes in the team structure during the project. Since the knowledge of the previous developers is gone, new developers might make the same mistakes without even realizing at that point that they are mistakes.</li>
+        <li><strong>Undue pressure</strong>: Rushing the project, issuing threats, or setting unrealistic deadlines by the management. This is in my opinion the biggest contributor to bad code in this category. Especially readability but also often maintainability of the code fly straight out of the window the moment a project is rushed.</li>
+    </ul>
+    <li>Organizational problems in the development team</li>
+    <ul>
+        <li><strong>Documenting complexity</strong>: This refers partially to poorly documentation of the existing software or to the lack thereof completely, and partially to miscommunication between the business and the development teams, i.e. the documentation of the requirements. The lack of well-defined goals or poorly expressed goals may result in last minute patches and/or put the development team under pressure for missing deadlines</li>
+        <li><strong>Organically grown processes</strong>: Undocumented processes that emerge organically without documentation. A classic example are the environment setup processes which are often undocumented, seldom communicated across different teams and may be subject to sudden changes depending on problems that arise during the development.</li>
+    </ul>
+</ol></p>
+
+<p>It is not surprising that the reasons for bad code are all related to organization and management. The question is &ldquo;why do good programmers write bad code?&rdquo;, so per definition, the competence of the individual programmers cannot be the root cause. None of the reasons for bad code are technical per se. So the answer to the question in the title is: Because of organizational and management reasons. How the team and the project is managed has a direct influence on not just the quality of the overall software as an end product, but also on the quality of the individual code snippets in this software.</p>
+
+
+  
+<div class="prev-next-post pure-g">
+  <div class="pure-u-1-24" style="text-align: left;">
+    
+    <a href="https://ozangulle.github.io/post/eli5_existentialism/"><i class="fa fa-chevron-left"></i></a>
+    
+  </div>
+  <div class="pure-u-10-24">
+    
+    <nav class="prev">
+      <a href="https://ozangulle.github.io/post/eli5_existentialism/">ELI5: Existentialism and Friederich Nietzsche</a>
+    </nav>
+    
+  </div>
+  <div class="pure-u-2-24">
+    &nbsp;
+  </div>
+  <div class="pure-u-10-24">
+    
+  </div>
+  <div class="pure-u-1-24" style="text-align: right;">
+    
+  </div>
+</div>
+
+
+
+  
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+
+(function() {
+    
+    
+    if (window.location.hostname == "localhost")
+        return;
+
+    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+    var disqus_shortname = 'ozangulle';
+    dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com/" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+</div>
+
+</div>
+</div>
+<script src="https://ozangulle.github.io/js/ui.js"></script>
+
+
+<script>
+    if (window.location.host==="ozangulle.github.io") {
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-102798418-1', 'auto');
+        ga('send', 'pageview');
+    }
+</script>
+
+
+
+</body>
+</html>
+
