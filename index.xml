@@ -5,10 +5,19 @@
     <link>https://ozangulle.github.io/</link>
     <description>Recent content on Ozan Gulle</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 09 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://ozangulle.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Why Do Good Programmers Write Bad Code - Part 2</title>
+      <link>https://ozangulle.github.io/post/good_coder_bad_code_2/</link>
+      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://ozangulle.github.io/post/good_coder_bad_code_2/</guid>
+      <description>Summary of the First Part In the first part of this article, I concluded that the main reason why good programmers write bad code is not due to technical issues but because of organizational problems on different levels. The emphasis here is on &amp;ldquo;good programmers&amp;rdquo;, meaning that lack of experience or skill is out of question. Bad code is defined roughly as (quoting from the first part) non-functional or partially functional code, unmaintainable code, unreadable code, or any combination of these  I concluded that since we are talking about competent and experienced programmers, the problems are not of technical nature, but occur due to organizational or management problems.</description>
+    </item>
     
     <item>
       <title>Why Do Good Programmers Write Bad Code - Part 1</title>
