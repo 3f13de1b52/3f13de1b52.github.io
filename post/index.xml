@@ -1,97 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ozan Gulle</title>
-    <link>https://ozangulle.github.io/post/</link>
+    <link>https://ozangulle.xyz/post/</link>
     <description>Recent content in Posts on Ozan Gulle</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 14 Jun 2018 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://ozangulle.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 06 Nov 2020 23:51:11 +0100</lastBuildDate><atom:link href="https://ozangulle.xyz/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Why Do Good Programmers Write Bad Code - Part 2</title>
-      <link>https://ozangulle.github.io/post/good_coder_bad_code_2/</link>
-      <pubDate>Thu, 14 Jun 2018 00:00:00 +0000</pubDate>
+      <title>Cleanup</title>
+      <link>https://ozangulle.xyz/post/cleanup/</link>
+      <pubDate>Fri, 06 Nov 2020 23:51:11 +0100</pubDate>
       
-      <guid>https://ozangulle.github.io/post/good_coder_bad_code_2/</guid>
-      <description>Summary of the First Part In the first part of this article, I concluded that the main reason why good programmers write bad code is not due to technical issues but because of organizational problems on different levels. The emphasis here is on &amp;ldquo;good programmers&amp;rdquo;, meaning that lack of experience or skill is out of question. Bad code is defined roughly as (quoting from the first part) non-functional or partially functional code, unmaintainable code, unreadable code, or any combination of these  I concluded that since we are talking about competent and experienced programmers, the problems are not of technical nature, but occur due to organizational or management problems.</description>
-    </item>
-    
-    <item>
-      <title>Why Do Good Programmers Write Bad Code - Part 1</title>
-      <link>https://ozangulle.github.io/post/good_coder_bad_code/</link>
-      <pubDate>Thu, 09 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://ozangulle.github.io/post/good_coder_bad_code/</guid>
-      <description>Introduction &amp;ldquo;Why do good programmers write bad code&amp;rdquo; is a question I&amp;rsquo;ve been pondering on for quite a while now. The question doesn&amp;rsquo;t come out of nowhere. Every now and then when I&amp;rsquo;m reading code at work, I stumble upon pieces of abysmal code written by people whom I know to be great programmers. I also stumble upon abysmal code written by myself every now and then, which is a very discomforting experience.</description>
-    </item>
-    
-    <item>
-      <title>ELI5: Existentialism and Friederich Nietzsche</title>
-      <link>https://ozangulle.github.io/post/eli5_existentialism/</link>
-      <pubDate>Mon, 16 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://ozangulle.github.io/post/eli5_existentialism/</guid>
-      <description>This has to be one of the most entertaining videos I have ever seen on philosophy for a long time. It is also completely wrong content-wise; but still hilarious.
- </description>
-    </item>
-    
-    <item>
-      <title>On Self Deception</title>
-      <link>https://ozangulle.github.io/post/on_self_deception/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://ozangulle.github.io/post/on_self_deception/</guid>
-      <description>Here’s an interesting story I heard from one of my colleagues. It is a story of him discovering that he was a vegetarian through his friends. This person had a vegetarian girlfriend and he was thinking about the pros and cons of vegetarianism for a long time. When he was with his girlfriend, he was eating vegetarian, and he gradually started eating vegetarian even he was alone. At some point, while discussing with his friends where they should go for a meal, one of his friends suggested to going to a locale with a vegetarian cuisine because my colleague was a vegetarian.</description>
-    </item>
-    
-    <item>
-      <title>The Tomato Technique</title>
-      <link>https://ozangulle.github.io/post/the-tomato-technique/</link>
-      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://ozangulle.github.io/post/the-tomato-technique/</guid>
-      <description>About two months ago, I rediscovered and started applying the pomodoro technique both in my professional and private life. My first encounter with the tomato was back when I was a mere student. It didn&amp;rsquo;t help me then, because I couldn&amp;rsquo;t understand a fundamental step in making it work. Now, after about 10 years since we&amp;rsquo;ve first met, I read about it again somewhere. Since I&amp;rsquo;m always looking for ways to increase my productivity, the curiosity got the best of me and I decided to give it a try.</description>
-    </item>
-    
-    <item>
-      <title>Race for Complexity</title>
-      <link>https://ozangulle.github.io/post/race-for-complexity/</link>
-      <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://ozangulle.github.io/post/race-for-complexity/</guid>
-      <description>Wikipedia defines race condition as:
- A race condition or race hazard is the behavior of an electronic, software, or other system where the output is dependent on the sequence or timing of other uncontrollable events. It becomes a bug when events do not happen in the order the programmer intended. The term originates with the idea of two signals racing each other to influence the output first.  While it is used in different contexts &amp;ndash; as stated in the definition &amp;ndash; the main idea remains the same: The output is dependent on multiple processes and the order of these processes cannot be predetermined.</description>
-    </item>
-    
-    <item>
-      <title>On the Art of Staying Calm</title>
-      <link>https://ozangulle.github.io/post/on_staying_calm/</link>
-      <pubDate>Sat, 05 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://ozangulle.github.io/post/on_staying_calm/</guid>
-      <description>I have a habit of wanting to dive straight into a new technology when I first encounter it. The strategy (or the lack thereof) consists of running straight at the problems, getting knocked back and then &amp;ndash; and only then &amp;ndash; taking the time to properly read the documentation. It is not a very effective method for learning things quickly, but it gets the things done. The trick is not to get frustrated when failure happens.</description>
-    </item>
-    
-    <item>
-      <title>New Shiny Product is Live</title>
-      <link>https://ozangulle.github.io/post/new_product_is_live/</link>
-      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://ozangulle.github.io/post/new_product_is_live/</guid>
-      <description>The main project I was working on for the better part of the last year is now live. The release of a new (or in this case, reworked) product is an exciting event. It is almost like releasing your pet into the wild.
-It is also interesting to observe the several stages of development &amp;ndash; or even better, the developer&amp;rsquo;s mind &amp;ndash; in retrospective. The whole ordeal is an emotional rollercoaster starting with a clean slate and a mindset of &amp;ldquo;this time we are going to make everything right from the get-go&amp;rdquo;, moving on to a long period where you conciously note every corner you cut for the sake of delivering on time, and then finally arriving to the state of panic where you know that the project is doomed and it will never be done.</description>
-    </item>
-    
-    <item>
-      <title>First Post</title>
-      <link>https://ozangulle.github.io/post/first_post/</link>
-      <pubDate>Tue, 18 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://ozangulle.github.io/post/first_post/</guid>
-      <description>I was thinking about moving to Github pages for while. Cancelled my previous hosting a month ago; started using Hugo for static site generation. Here&amp;rsquo;s the first post in all its glamour.</description>
+      <guid>https://ozangulle.xyz/post/cleanup/</guid>
+      <description>It was about time.
+ I created this website back in 2017 when I was fresh out of university. I published a few posts, but most of them were too academical, badly written, and not very interesting to be honest.
+ I decided that it was time for a clean-up. I don&amp;#39;t know whether I will ever publish anything here.</description>
     </item>
     
   </channel>

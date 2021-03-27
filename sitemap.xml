@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ozangulle.xyz/post/cleanup/</loc>
+    <lastmod>2020-11-06T23:51:11+01:00</lastmod>
+  </url><url>
+    <loc>https://ozangulle.xyz/</loc>
+    <lastmod>2020-11-06T23:51:11+01:00</lastmod>
+  </url><url>
+    <loc>https://ozangulle.xyz/post/</loc>
+    <lastmod>2020-11-06T23:51:11+01:00</lastmod>
+  </url><url>
     <loc>https://ozangulle.xyz/about/</loc>
     <lastmod>2020-11-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -10,7 +19,5 @@
   </url><url>
     <loc>https://ozangulle.xyz/projects/</loc>
     <lastmod>2017-07-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://ozangulle.xyz/</loc>
   </url>
 </urlset>
